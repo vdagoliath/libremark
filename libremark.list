@@ -1,0 +1,1 @@
+deb [signed-by=/usr/share/keyrings/libremark-archive-keyring.gpg] https://github.com/vdagoliath/libremark.git stable main

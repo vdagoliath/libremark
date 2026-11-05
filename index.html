@@ -1,0 +1,15 @@
+<!doctype html>
+<html lang="es">
+  <head><meta charset="utf-8"><title>Repositorio APT de LibreMark</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>body{font-family:system-ui,sans-serif;max-width:760px;margin:40px auto;padding:0 20px;line-height:1.6;color:#1c1917}code{background:#f5f2ed;padding:2px 5px;border-radius:4px}pre{background:#f5f2ed;padding:14px;border-radius:8px;overflow:auto}</style></head>
+  <body>
+    <h1>Repositorio APT de LibreMark</h1>
+    <p>Paquete <code>libremark</code> 0.1.0 para amd64.</p>
+    <pre>curl -fsSL https://github.com/vdagoliath/libremark.git/libremark-archive-keyring.gpg | sudo tee /usr/share/keyrings/libremark-archive-keyring.gpg > /dev/null
+echo "deb [signed-by=/usr/share/keyrings/libremark-archive-keyring.gpg] https://github.com/vdagoliath/libremark.git stable main" | sudo tee /etc/apt/sources.list.d/libremark.list
+sudo apt update
+sudo apt install libremark</pre>
+    <p>Más instrucciones en <a href="README.md">README.md</a>.</p>
+  </body>
+</html>

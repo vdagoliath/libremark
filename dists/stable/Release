@@ -1,0 +1,17 @@
+Origin: LibreMark
+Label: LibreMark
+Suite: stable
+Codename: stable
+Architectures: amd64
+Components: main
+Description: Repositorio oficial de LibreMark
+Date: Thu, 05 Nov 2026 22:24:22 UTC
+MD5Sum:
+ 410a5d776faa3f71f256fdb0428ad215             1317 main/binary-amd64/Packages
+ b5fc0c95eb83870c8c9400685708bc80              825 main/binary-amd64/Packages.gz
+SHA1:
+ 428f76cfe907c9d099cf8791bfe3671b16383f91             1317 main/binary-amd64/Packages
+ e75809dca674d859f276bf2a5183b5ae823f4558              825 main/binary-amd64/Packages.gz
+SHA256:
+ 0baa84bb3d18846fed2000f7f4c079cb481383475e342888b19cafc4f2da08c2             1317 main/binary-amd64/Packages
+ f1e33a50483a8f2aef5110660e3db2c3decdf2181c70ac879ecb414b766e08d1              825 main/binary-amd64/Packages.gz

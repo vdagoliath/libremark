@@ -1,0 +1,28 @@
+Package: libremark
+Version: 0.1.0
+Architecture: amd64
+Maintainer: LibreMark <soporte@libremark.app>
+Installed-Size: 290584
+Depends: libgtk-3-0 | libgtk-3-0t64, libnss3, libxss1, libgbm1, libdrm2, libxkbcommon0, libatspi2.0-0 | libatspi2.0-0t64, libxtst6, libasound2 | libasound2t64, xdg-utils
+Recommends: fonts-inter | fonts-noto-core
+Filename: pool/main/libr/libremark/libremark_0.1.0_amd64.deb
+Size: 100587748
+MD5sum: 24e1ffc70e3307b053d25251f6324fb4
+SHA1: 9c6ebcdab8dd7399d6db68c3e7e0e3a5e9614678
+SHA256: 2ff30db35398ab0ebc6eabca42ef71fdc3ff06c95811359b175e20b9f50cfe17
+Section: editors
+Priority: optional
+Homepage: https://github.com/tu-usuario/libremark
+Description: Editor Markdown WYSIWYG gratuito y sin licencias
+ LibreMark es un editor de Markdown WYSIWYG para escritorio, pensado como
+ alternativa libre a Typora. Escribe con el formato ya aplicado, trabaja con
+ carpetas locales de archivos .md y exporta a PDF o HTML conservando el mismo
+ resultado que se ve en pantalla.
+ .
+ Incluye matemáticas con KaTeX, diagramas Mermaid, tablas, listas de tareas,
+ código con resaltado, temas claro y oscuro, búsqueda, esquema del documento,
+ modo enfoque y modo código fuente.
+ .
+ La aplicación es gratuita y no tiene gestión de licencias: no requiere claves
+ de activación, cuentas ni conexión a internet.
+
